@@ -1,0 +1,23 @@
+{
+    "groups": [
+        {
+            "groupId": "120363025798281212@g.us",
+            "total": 0,
+            "users": {}
+        },
+        {
+            "groupId": "120363045164081135@g.us",
+            "total": 209,
+            "users": {
+                "559481417512@s.whatsapp.net": 195,
+                "559193838159@s.whatsapp.net": 14
+            }
+        }
+    ],
+    "users": [
+        {
+            "id": "559481417512@s.whatsapp.net",
+            "total": 26
+        }
+    ]
+}
